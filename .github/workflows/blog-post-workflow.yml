@@ -6,7 +6,7 @@ on:
 jobs:
   update-readme-with-blog:
     name: Mes Derniers posts
-    #runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
