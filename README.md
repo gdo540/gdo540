@@ -3,6 +3,8 @@
 
 [<img align="center" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/rss.svg" />][flux]
 
+<img src="https://images.unsplash.com/photo-1593642532400-2682810df593?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="people work">
+
 # Welcome to my github page
 ## Who am i?
 - I am a junior french developper.
@@ -22,6 +24,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
+
 
 ### My blog  is [gars des ordis][website] but its in french language
 
