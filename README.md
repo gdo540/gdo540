@@ -2,9 +2,7 @@
 <img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/gdo540?style=social">
 
 ## Mes derniers post
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
 
 :england: <br>
 # Welcome to my github page
