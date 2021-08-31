@@ -14,4 +14,4 @@ jobs:
         with:
           comment_tag_name: "le gars des ordis"
           commit_message: "Updated readme"
-          feed_list: "https://http://legarsdesordis.rf.gd/feed/"
+          feed_list: "http://legarsdesordis.rf.gd/feed/"
