@@ -26,7 +26,7 @@
 <br>
 
 
-### My blog  is [gars des ordis][website] but its in french language
+### My blog  is [Le gars des ordis][website] but its in french language
 
 
 
